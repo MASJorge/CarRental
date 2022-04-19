@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CarRentalManagement.Shared.Domain
+namespace CarRental.Shared.Domain
 {
     public class Make : BaseDomainModel
     {

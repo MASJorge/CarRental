@@ -1,8 +1,8 @@
-﻿using CarRentalManagement.Shared.Domain;
+﻿using CarRental.Shared.Domain;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace CarRentalManagement.Server.Configurations.Entities
+namespace CarRental.Server.Configurations.Entities
 {
     public class ColourSeedConfiguration : IEntityTypeConfiguration<Colour>
     {

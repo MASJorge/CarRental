@@ -1,9 +1,5 @@
 using CarRental.Server.Data;
 using CarRental.Server.Models;
-//using CarRentalManagement.Server.Data;
-//using CarRentalManagement.Server.IRepository;
-//using CarRentalManagement.Server.Models;
-//using CarRentalManagement.Server.Repository;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -15,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
 
-namespace CarRentalManagement.Server
+namespace CarRental.Server
 {
     public class Startup
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace CarRentalManagement.Shared.Domain
+namespace CarRental.Shared.Domain
 {
     public class Customer : BaseDomainModel
     {

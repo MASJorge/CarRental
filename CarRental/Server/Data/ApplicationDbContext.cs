@@ -1,6 +1,6 @@
-﻿using CarRental.Server.Models;
-using CarRentalManagement.Server.Configurations.Entities;
-using CarRentalManagement.Shared.Domain;
+﻿using CarRental.Server.Configurations.Entities;
+using CarRental.Server.Models;
+using CarRental.Shared.Domain;
 using Duende.IdentityServer.EntityFramework.Options;
 using Microsoft.AspNetCore.ApiAuthorization.IdentityServer;
 using Microsoft.EntityFrameworkCore;
